@@ -13,7 +13,7 @@ Thesis/
     data/                # Input PDFs and reference documents
     stage1/              # Stage 1 (Baseline) system with Ollama
     stage2_rag/          # Stage 2 (RAG) system
-    stage3_rag_kg/       # Stage 3 (RAG + KG) system
+    stage3_ragkg/       # Stage 3 (RAG + KG + ILP) system
     .env                 # Environment configuration (per-project)
 ```
 
